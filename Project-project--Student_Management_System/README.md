@@ -23,6 +23,6 @@ Also it lead to clarity on concepts like
 
 ### Challenges faced
 
- Minor bumps like bracket use , syntax , call errors where faced and for the same I referred to the Python Manual and websites hosting such content. 
+Basics like parenthesis use , syntax , call errors where faced and for the same I referred to the Python Manual and websites hosting such content. 
 
 
